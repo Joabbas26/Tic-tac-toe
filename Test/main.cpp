@@ -4,7 +4,7 @@
 using namespace std;
 
 void Board() {}
-void X_Os() {}
+void Choice() {}
 
 int main() {
 
